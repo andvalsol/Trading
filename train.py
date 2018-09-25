@@ -51,6 +51,6 @@ for e in range(episode_count + 1):
 
     if e % 10 == 0:
         print("models/model_ep")
-        agent.model.save("models/model_ep")
+        agent.model.save("Trading/models/model_ep")
     else:
         print("No model saved!")
