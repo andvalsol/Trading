@@ -30,6 +30,7 @@ for t in range(l):
     reward = 0
 
     print("The action is: ", action)
+    print("The agent inventory is: ", agent.inventory)
 
     if action == 1:  # buy
         agent.inventory.append(data[t])
