@@ -10,6 +10,7 @@ def formatPrice(n):
 # returns the vector containing stock data from a fixed file
 def getStockDataVec(key):
     vec = []
+    # This line is new
     lines = open("Reinforcement_Learning_for_Stock_Prediction/data/" + key + ".csv", "r").read().splitlines()
 
     for line in lines[1:]:
