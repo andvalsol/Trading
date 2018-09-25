@@ -21,6 +21,7 @@ state = getState(data, 0, window_size + 1)
 total_profit = 0
 agent.inventory = []
 
+print("The length l is:", l)
 for t in range(l):
     action = agent.act(state)
 
