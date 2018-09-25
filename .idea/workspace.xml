@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd1d3af6-9dfb-4a6e-89a8-2c927a0a9165" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/agent/agent.py" beforeDir="false" afterPath="$PROJECT_DIR$/agent/agent.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/^GSPC.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/GSPC.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/^GSPC_2011.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/GSPC_2011.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/evaluate.py" beforeDir="false" afterPath="$PROJECT_DIR$/evaluate.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/functions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -403,12 +398,12 @@
       <workItem from="1537667797409" duration="64000" />
       <workItem from="1537667868938" duration="1651000" />
       <workItem from="1537824075173" duration="11841000" />
-      <workItem from="1537836869737" duration="720000" />
+      <workItem from="1537836869737" duration="1510000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24374000" />
+    <option name="totallyTimeSpent" value="25164000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
