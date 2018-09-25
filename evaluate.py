@@ -29,6 +29,8 @@ for t in range(l):
     next_state = getState(data, t + 1, window_size + 1)
     reward = 0
 
+    print("The action is: ", action)
+
     if action == 1:  # buy
         agent.inventory.append(data[t])
         print("Buy: " + formatPrice(data[t]))
