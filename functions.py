@@ -11,7 +11,7 @@ def formatPrice(n):
 def getStockDataVec(key):
     vec = []
     # This line is new
-    lines = open("Reinforcement_Learning_for_Stock_Prediction/data/" + key + ".csv", "r").read().splitlines()
+    lines = open("Trading/data/" + key + ".csv", "r").read().splitlines()
 
     for line in lines[1:]:
         vec.append(float(line.split(",")[4]))
